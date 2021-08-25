@@ -1,0 +1,7 @@
+.formSample{
+  display: flex;
+  flex: auto;
+  justify-content: space-between;
+  width: 300px;
+  margin: 10px;
+}

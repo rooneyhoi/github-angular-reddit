@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 300px;
+}
+
+.fourcolumns {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;  
+  margin: 10px;
+}
+
+.votes {
+  background-color: burlywood;
+  width: 100px;
+  text-align: center;
+  padding: 15px;
+}
+
+.links {
+  background-color:cornsilk;
+  width: 200px;
+  padding: 15px;
+}
